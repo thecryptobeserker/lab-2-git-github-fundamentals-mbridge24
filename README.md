@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Gz_pIOgr)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -88,7 +89,7 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## 📝 Next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
